@@ -1,0 +1,42 @@
+{
+
+  "project_info": {
+    "project_number": "204892297985",
+    "firebase_url": "https://triviapp-8f3d8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "triviapp-8f3d8",
+    "storage_bucket": "triviapp-8f3d8.firebasestorage.app"
+  },
+
+"client": [
+{
+  "client_info": {
+    "mobilesdk_app_id": "1:204892297985:android:258aa438ec393d483e9900",
+    "android_client_info": {
+      "package_name": "com.triviapp.juego"
+    }
+  },
+  "oauth_client": [
+    {
+      "client_id": "204892297985-dfke1gua67perk370qt59bv7nu88tf0i.apps.googleusercontent.com",
+      "client_type": 3
+    }
+  ],
+  "api_key": [
+    {
+      "current_key": "AIzaSyBer3yJaVp13pNF912X9pA9zuiv-AVYg_w"
+    }
+  ],
+  "services": {
+    "appinvite_service": {
+      "other_platform_oauth_client": [
+        {
+          "client_id": "204892297985-dfke1gua67perk370qt59bv7nu88tf0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ]
+    }
+  }
+}
+],
+"configuration_version": "1"
+}

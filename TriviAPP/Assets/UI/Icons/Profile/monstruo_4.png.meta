@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: fc2667b5c3afd9143ab507ed95ec1e96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1510920882923369420
+    second: monstruo_4_0
+  - first:
+      213: 966587209501573972
+    second: monstruo_4_1
+  - first:
+      213: 611777718676259640
+    second: monstruo_4_2
+  - first:
+      213: 1641425316500296747
+    second: monstruo_4_3
+  - first:
+      213: -7885638066640920195
+    second: monstruo_4_4
+  - first:
+      213: -4121531757224753624
+    second: monstruo_4_5
+  - first:
+      213: 6064524112112666829
+    second: monstruo_4_6
+  - first:
+      213: 8362826427501579735
+    second: monstruo_4_7
+  - first:
+      213: -5707349893541559061
+    second: monstruo_4_8
+  - first:
+      213: -8989227222839098716
+    second: monstruo_4_9
+  - first:
+      213: -7245283088129481202
+    second: monstruo_4_10
+  - first:
+      213: -5290612685929841385
+    second: monstruo_4_11
+  - first:
+      213: 7131836168210680938
+    second: monstruo_4_12
+  - first:
+      213: -4978597708400615709
+    second: monstruo_4_13
+  - first:
+      213: 5138357300135365278
+    second: monstruo_4_14
+  - first:
+      213: 5967927913217677641
+    second: monstruo_4_15
+  - first:
+      213: 2971484220717561732
+    second: monstruo_4_16
+  - first:
+      213: -4306521705660768857
+    second: monstruo_4_17
+  - first:
+      213: -8474312768500957857
+    second: monstruo_4_18
+  - first:
+      213: -6495043098123893028
+    second: monstruo_4_19
+  - first:
+      213: 60332085614252518
+    second: monstruo_4_20
+  - first:
+      213: 3315360003783446643
+    second: monstruo_4_21
+  - first:
+      213: -7400603192311820448
+    second: monstruo_4_22
+  - first:
+      213: -6460288583393790286
+    second: monstruo_4_23
+  - first:
+      213: 2827717048963910815
+    second: monstruo_4_24
+  - first:
+      213: -7319052463634336172
+    second: monstruo_4_25
+  - first:
+      213: -2746235691176605085
+    second: monstruo_4_26
+  - first:
+      213: 4293160284725957533
+    second: monstruo_4_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstruo_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c02a15671280be0800000000000000
+      internalID: -1510920882923369420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45307c222f10a6d00800000000000000
+      internalID: 966587209501573972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833823308987d7800800000000000000
+      internalID: 611777718676259640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b245553f0a387c610800000000000000
+      internalID: 1641425316500296747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71e19255f5909290800000000000000
+      internalID: -7885638066640920195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 79
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826802024b06dc6c0800000000000000
+      internalID: -4121531757224753624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 79
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8444a7c84892450800000000000000
+      internalID: 6064524112112666829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd0b71e35abe0470800000000000000
+      internalID: 8362826427501579735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4879ab28b6bc0b0800000000000000
+      internalID: -5707349893541559061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a28761c779df3380800000000000000
+      internalID: -8989227222839098716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06a5e22b65937b90800000000000000
+      internalID: -7245283088129481202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 76
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71df9f20bc7f396b0800000000000000
+      internalID: -5290612685929841385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 79
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c0b7a753f59f260800000000000000
+      internalID: 7131836168210680938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee153f03c778eab0800000000000000
+      internalID: -4978597708400615709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 79
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a8a938dbc1f4740800000000000000
+      internalID: 5138357300135365278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9495a7051d652d250800000000000000
+      internalID: 5967927913217677641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4877c87b725dc3920800000000000000
+      internalID: 2971484220717561732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_17
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad949c53592c34c0800000000000000
+      internalID: -4306521705660768857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 79
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d71f59f61356a80800000000000000
+      internalID: -8474312768500957857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_19
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd60977e6b8fcd5a0800000000000000
+      internalID: -6495043098123893028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_20
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1989356b756d000800000000000000
+      internalID: 60332085614252518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_21
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370dc00ab56820e20800000000000000
+      internalID: 3315360003783446643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_22
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 79
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fc1ae4b96cb4990800000000000000
+      internalID: -7400603192311820448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_23
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b63d40f2c17856a0800000000000000
+      internalID: -6460288583393790286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_24
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c4fc49ca11e3720800000000000000
+      internalID: 2827717048963910815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_25
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456b0a4ff808d6a90800000000000000
+      internalID: -7319052463634336172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 79
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a4be5603963e9d0800000000000000
+      internalID: -2746235691176605085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstruo_4_27
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93d7e6688e549b30800000000000000
+      internalID: 4293160284725957533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      monstruo_4_0: -1510920882923369420
+      monstruo_4_1: 966587209501573972
+      monstruo_4_10: -7245283088129481202
+      monstruo_4_11: -5290612685929841385
+      monstruo_4_12: 7131836168210680938
+      monstruo_4_13: -4978597708400615709
+      monstruo_4_14: 5138357300135365278
+      monstruo_4_15: 5967927913217677641
+      monstruo_4_16: 2971484220717561732
+      monstruo_4_17: -4306521705660768857
+      monstruo_4_18: -8474312768500957857
+      monstruo_4_19: -6495043098123893028
+      monstruo_4_2: 611777718676259640
+      monstruo_4_20: 60332085614252518
+      monstruo_4_21: 3315360003783446643
+      monstruo_4_22: -7400603192311820448
+      monstruo_4_23: -6460288583393790286
+      monstruo_4_24: 2827717048963910815
+      monstruo_4_25: -7319052463634336172
+      monstruo_4_26: -2746235691176605085
+      monstruo_4_27: 4293160284725957533
+      monstruo_4_3: 1641425316500296747
+      monstruo_4_4: -7885638066640920195
+      monstruo_4_5: -4121531757224753624
+      monstruo_4_6: 6064524112112666829
+      monstruo_4_7: 8362826427501579735
+      monstruo_4_8: -5707349893541559061
+      monstruo_4_9: -8989227222839098716
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
